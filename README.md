@@ -2,3 +2,6 @@
 This is my first Git Repository.
 <br>
 Author - Karandeep (kkaur)
+# Learner
+Karandeep Kaur
+
